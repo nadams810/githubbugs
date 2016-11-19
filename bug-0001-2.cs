@@ -8,7 +8,8 @@ namespace bug
 {
     interface iface { }
 
-    abstract class absclass : iface//comment
+	// comment
+    abstract class absclass : iface 
     {
 
     }
