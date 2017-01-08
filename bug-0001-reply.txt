@@ -1,0 +1,14 @@
+Reported: 11/20?
+Response: 11/21/2016
+
+Hi Nathan,
+
+We use open source TextMate-style language grammars for syntax highlighting, which are available here:
+https://github.com/github/linguist/blob/master/grammars.yml
+
+The fastest way to get this fixed would be to find the issue tracker for the specific grammar and open an issue or contribute a fix there.
+
+Linguist pulls in grammar updates with each new release, which usually happens every couple of weeks. This should get fixed on GitHub.com shortly after that happens.
+
+Cheers
+Stacey
